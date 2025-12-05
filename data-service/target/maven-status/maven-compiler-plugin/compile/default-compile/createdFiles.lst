@@ -1,0 +1,8 @@
+ru/petrov/data/model/StudentDataCreateRequest.class
+ru/petrov/data/api/StudentDataApi.class
+ru/petrov/data/service/Student.class
+ru/petrov/data/service/StudentRepository.class
+ru/petrov/data/service/StudentController.class
+ru/petrov/data/model/StudentDataResponse.class
+ru/petrov/data/api/ApiUtil.class
+ru/petrov/data/service/DataServiceApplication.class
