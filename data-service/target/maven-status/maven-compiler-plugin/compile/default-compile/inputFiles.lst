@@ -1,8 +1,8 @@
-/Users/nikolajpetrov/Downloads/rksp-2/data-service/target/generated-sources/openapi/src/main/java/ru/petrov/data/model/StudentDataCreateRequest.java
-/Users/nikolajpetrov/Downloads/rksp-2/data-service/src/main/java/ru/petrov/data/service/StudentController.java
-/Users/nikolajpetrov/Downloads/rksp-2/data-service/src/main/java/ru/petrov/data/service/Student.java
-/Users/nikolajpetrov/Downloads/rksp-2/data-service/target/generated-sources/openapi/src/main/java/ru/petrov/data/model/StudentDataResponse.java
-/Users/nikolajpetrov/Downloads/rksp-2/data-service/target/generated-sources/openapi/src/main/java/ru/petrov/data/api/StudentDataApi.java
-/Users/nikolajpetrov/Downloads/rksp-2/data-service/src/main/java/ru/petrov/data/service/DataServiceApplication.java
-/Users/nikolajpetrov/Downloads/rksp-2/data-service/target/generated-sources/openapi/src/main/java/ru/petrov/data/api/ApiUtil.java
-/Users/nikolajpetrov/Downloads/rksp-2/data-service/src/main/java/ru/petrov/data/service/StudentRepository.java
+/Users/nikolajpetrov/netology/rksp-3/data-service/target/generated-sources/openapi/src/main/java/ru/petrov/data/api/StudentDataApi.java
+/Users/nikolajpetrov/netology/rksp-3/data-service/target/generated-sources/openapi/src/main/java/ru/petrov/data/api/ApiUtil.java
+/Users/nikolajpetrov/netology/rksp-3/data-service/target/generated-sources/openapi/src/main/java/ru/petrov/data/model/StudentDataCreateRequest.java
+/Users/nikolajpetrov/netology/rksp-3/data-service/src/main/java/ru/petrov/data/service/StudentController.java
+/Users/nikolajpetrov/netology/rksp-3/data-service/target/generated-sources/openapi/src/main/java/ru/petrov/data/model/StudentDataResponse.java
+/Users/nikolajpetrov/netology/rksp-3/data-service/src/main/java/ru/petrov/data/service/DataServiceApplication.java
+/Users/nikolajpetrov/netology/rksp-3/data-service/src/main/java/ru/petrov/data/service/Student.java
+/Users/nikolajpetrov/netology/rksp-3/data-service/src/main/java/ru/petrov/data/service/StudentRepository.java
